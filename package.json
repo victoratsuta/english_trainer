@@ -1,0 +1,22 @@
+{
+  "name": "english_helper",
+  "version": "1.0.0",
+  "description": "help to learn new english words",
+  "main": "src/index.js",
+  "dependencies": {
+    "@inquirer/core": "0.0.9-alpha.0",
+    "inquirer": "^7.1.0",
+    "rxjs": "^6.5.5"
+  },
+  "devDependencies": {
+    "ansi-escapes": "^4.3.1",
+    "chalk": "^4.0.0",
+    "figures": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
